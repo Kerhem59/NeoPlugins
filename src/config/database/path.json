@@ -1,0 +1,129 @@
+{
+    "basePath": "Database/SuperCore/db",
+    "databases": {
+        "server_settings": {
+            "file": "server_settings.json",
+            "description": "Sunucu ayarları veritabanı"
+        },
+        "afk": {
+            "file": "afk.json",
+            "description": "AFK sistemi veritabanı"
+        },
+        "level": {
+            "file": "level.json",
+            "description": "Seviye sistemi veritabanı"
+        },
+        "economy": {
+            "file": "economy.json",
+            "description": "Ekonomi sistemi veritabanı"
+        },
+        "welcome": {
+            "file": "welcome.json",
+            "description": "Hoşgeldin sistemi veritabanı"
+        },
+        "ticket": {
+            "file": "ticket.json",
+            "description": "Ticket sistemi veritabanı"
+        },
+        "application": {
+            "file": "application.json",
+            "description": "Başvuru sistemi veritabanı"
+        },
+        "store": {
+            "file": "store.json",
+            "description": "Mağaza sistemi veritabanı"
+        },
+        "autorole": {
+            "file": "autorole.json",
+            "description": "Otorol sistemi veritabanı"
+        },
+        "autobackup": {
+            "file": "autobackup.json",
+            "description": "Oto yedekleme sistemi veritabanı"
+        },
+        "automessage": {
+            "file": "automessage.json",
+            "description": "Oto mesaj sistemi veritabanı"
+        },
+        "autoban": {
+            "file": "autoban.json",
+            "description": "Oto ban sistemi veritabanı"
+        },
+        "abone": {
+            "file": "abone.json",
+            "description": "Abone sistemi veritabanı"
+        },
+        "consolelogger": {
+            "file": "consolelogger.json",
+            "description": "Konsol log sistemi veritabanı"
+        },
+        "users_levels": {
+            "file": "users_levels.json",
+            "description": "Kullanıcı seviyeleri veritabanı"
+        },
+        "afk_data": {
+            "file": "afk_data.json",
+            "description": "AFK verileri veritabanı"
+        },
+        "server_stats_history": {
+            "file": "server_stats_history.json",
+            "description": "Sunucu istatistikleri geçmişi"
+        },
+        "user_activity_history": {
+            "file": "user_activity_history.json",
+            "description": "Kullanıcı aktivite geçmişi"
+        },
+        "store_products": {
+            "file": "store_products.json",
+            "description": "Mağaza ürünleri veritabanı"
+        },
+        "customer_orders": {
+            "file": "customer_orders.json",
+            "description": "Müşteri siparişleri veritabanı"
+        },
+        "licenses": {
+            "file": "licenses.json",
+            "description": "Ürün lisansları ve HWID veritabanı"
+        },
+        "reviews": {
+            "file": "reviews.json",
+            "description": "Müşteri yorumları veritabanı"
+        },
+        "promo_codes": {
+            "file": "promo_codes.json",
+            "description": "İndirim ve promosyon kodları veritabanı"
+        },
+        "loyalty": {
+            "file": "loyalty.json",
+            "description": "Müşteri sadakat puanları veritabanı"
+        },
+        "flash_sales": {
+            "file": "flash_sales.json",
+            "description": "Zamanlı kampanya veritabanı"
+        },
+        "referrals": {
+            "file": "referrals.json",
+            "description": "Referans/davet kodları veritabanı"
+        },
+        "changelogs": {
+            "file": "changelogs.json",
+            "description": "Ürün güncelleme geçmişi veritabanı"
+        },
+        "store_info": {
+            "file": "store_info.json",
+            "description": "Mağaza bilgileri ve ödeme yöntemleri"
+        },
+        "quiz_market": {
+            "file": "quiz_market.json",
+            "description": "Quiz markette kazanılabilir ödüller"
+        },
+        "quiz_redeems": {
+            "file": "quiz_redeems.json",
+            "description": "Quiz market ödül talepleri"
+        },
+        "customer_servers": {
+            "file": "customer_servers.json",
+            "description": "Müşterilerin eklediği Unturned sunucuları"
+        }
+    }
+}

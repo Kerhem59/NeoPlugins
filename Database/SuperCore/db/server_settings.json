@@ -1,0 +1,67 @@
+[
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "welcomeChannel",
+    "setting_value": "1540695752886714430"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "ticketChannel",
+    "setting_value": "1540685512912666734"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "ticketLog",
+    "setting_value": "1540685526049226762"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "ticketStaff",
+    "setting_value": "1540684735611674644"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "customerRole",
+    "setting_value": "1540684737834651698"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "customerLogChannel",
+    "setting_value": "1540685524455530517"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "modLogChannel",
+    "setting_value": "1540685527508848680"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "messageLogChannel",
+    "setting_value": "1540685529295884358"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "voiceLogChannel",
+    "setting_value": "1540685530608701534"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "autoRole",
+    "setting_value": "1540684741861441606"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "satisLogKanali",
+    "setting_value": "1543315320138367096"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "yorumKanali",
+    "setting_value": "1540685508534075392"
+  },
+  {
+    "guild_id": "1505168543497584882",
+    "setting_key": "ticket/stats",
+    "setting_value": "{\"2026-W36\":{\"643002216638316555\":{\"solved\":3,\"ratings\":[5,3,2]}}}"
+  }
+]

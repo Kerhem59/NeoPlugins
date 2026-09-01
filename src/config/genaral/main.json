@@ -1,0 +1,85 @@
+{
+    "MainBotToken": "MTUwOTk5MjYxMzI2NzExMTk0Ng.G72Yqp.3gkQkxCeaOIvw4XBtrc9YhOzYTkOqYwiPW0c4A",
+    "ApiKey": "",
+    "ApiPort": 4023,
+    "MainBotID": "1509992613267111946",
+    "TicketChannelID": "",
+    "ServerID": "1505168543497584882",
+    "ServerName": "Unturned Plugin Store",
+    "OwnerID": [
+        "643002216638316555"
+    ],
+    "prefix": [
+        "."
+    ],
+    "MySQL": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "crp"
+    },
+    "emojis": {
+        "success": "✅",
+        "error": "❌",
+        "loading": "⏳",
+        "warning": "⚠️",
+        "info": "💡",
+        "arrow": "➜",
+        "coin": "💰",
+        "ticket": "🎫"
+    },
+    "Activity": [
+        "Unturned Plugin Store 🛠️",
+        "/urunler ⬢ Plugin Vitrini",
+        "/ticket-kur ⬢ Satış & Destek"
+    ],
+    "emotes_custom": {
+        "noEmote": "❌",
+        "yesEmote": "✅",
+        "LoadingEmote": "⏳"
+    },
+    "embed": {
+        "default": {
+            "color": "#0088FF",
+            "footer": "Unturned Plugin Store",
+            "authorName": "Unturned Plugin Store",
+            "authorIcon": ""
+        }
+    },
+    "otomesaj": {
+        "prefix": "!",
+        "similarityThreshold": 75,
+        "responses": [
+            {
+                "trigger": "sa",
+                "reply": "Ve Aleyküm Selam! 👋\nUnturned Plugin Mağazamıza hoş geldin.\nEn güncel RocketMod ve OpenMod eklentileri, özel plugin siparişleri ve teknik destek için doğru yerdesin. 🎮🛠️\n`/urunler` yazarak satıştaki eklentileri inceleyebilirsin!",
+                "embed": true
+            },
+            {
+                "trigger": "selam",
+                "reply": "Selam! 👋 Unturned Plugin Store'a hoş geldin.\nSunucun için kaliteli ve optimize eklentileri `/urunler` komutuyla görebilir veya destek kanalından talebini iletebilirsin. 🚀",
+                "embed": true
+            },
+            {
+                "trigger": "merhaba",
+                "reply": "Merhaba! ✨ Unturned Plugin topluluğumuza hoş geldin.\nEklenti satın alımları, özel plugin kodlama ve teknik destek talepleri için destek kanalımızı ziyaret edebilirsin!",
+                "embed": true
+            },
+            {
+                "trigger": "nasıl satın alırım",
+                "reply": "🛒 **Plugin Satın Alımı Nasıl Yapılır?**\n\n1. `/urunler` komutunu kullanarak eklentilerimizi inceleyin.\n2. Beğendiğiniz eklentinin altındaki **'🛒 Satın Al'** butonuna tıklayın veya destek kanalından **Plugin Satın Alım** talebi açın.\n3. Yetkilimiz ödeme bilgilerini iletecek ve kurulum dosyasını teslim edecektir! ⚡",
+                "embed": true
+            },
+            {
+                "trigger": "ödeme",
+                "reply": "💳 **Ödeme Yöntemleri:**\n\nMağazamızda **IBAN / Banka Havalesi / EFT**, **Papara** ve **İninal/Kredi Kartı** ile güvenli ödeme kabul edilmektedir. Sipariş açtığınızda ödeme bilgileri otomatik iletilecektir.",
+                "embed": true
+            },
+            {
+                "trigger": "kurulum",
+                "reply": "⚙️ **Plugin Kurulum & Teknik Destek:**\n\nTüm eklentilerimiz güncel RocketMod ve Unturned sürümleriyle %100 test edilmiş olup, satın alım sonrasında ücretsiz kurulum desteği sağlanmaktadır!",
+                "embed": true
+            }
+        ]
+    }
+}

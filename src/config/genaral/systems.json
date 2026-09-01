@@ -1,0 +1,15 @@
+{
+  "afk": true,
+  "autobackup": true,
+  "consolelogger": false,
+  "automessage": true,
+  "level": true,
+  "economy": true,
+  "welcome": true,
+  "autorole": true,
+  "ticket": true,
+  "application": true,
+  "autoban": false,
+  "abone": false,
+  "store": true
+}
